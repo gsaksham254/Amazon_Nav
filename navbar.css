@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+#navbar{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    padding-top: 20px;
+    border-radius: 15px;
+}
+button{
+    background-color:#f08804
+}
+#logo{
+    font-size: 20px;
+    color: #f08804;
+}
+a{
+    margin:150px 150px 150px 150px;
+    text-decoration: none;
+}
+
